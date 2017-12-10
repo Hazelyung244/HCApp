@@ -1,0 +1,21 @@
+.mytable>tbody>tr>td,   .mytable>tbody>tr>th,   .mytable>tfoot>tr>td,   .mytable>tfoot>tr>th,   .mytable>thead>tr>td,   .mytable>thead>tr>th {
+    padding: 1px;
+}
+
+.input-box {
+    width:100%;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+
+.pagination-rows {
+    text-align: right;
+}
+
+.panel-body {
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    font-size: 12px;
+}

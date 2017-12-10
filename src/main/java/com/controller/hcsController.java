@@ -8,7 +8,7 @@ public class hcsController {
 
     @RequestMapping("/")
     public String index() {
-        return "Greetings from Spring Boot!";
+        return "heyhey";
     }
 
 }
